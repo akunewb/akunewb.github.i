@@ -84,7 +84,7 @@ author:
   location: Indonesia
   email: tipsrandomeuorg@gmail.com
 
-default: 
+defaults: 
    - scope: 
      path: ""
      type: posts
