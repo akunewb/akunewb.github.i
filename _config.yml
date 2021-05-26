@@ -9,9 +9,11 @@ avatar: assets/img/triangle.png                         # Empty for no avatar in
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text:Tips Random Website Belajar Perkantoran | Belajar Perhotelan   # Change Blog header text
+header_text: Tips Random Website Belajar Perkantoran Belajar Perhotelan 
 header_feature_image: assets/img/pexels/triangular.jpeg
 footer_text: >
+<p> About | Disclaimer | Contact | Privacy Policy | Sitemap </p>
+
   Powered by <a href="/">RandomTips</a> with <a href="/">Love</a>
 
 # Blog
@@ -26,7 +28,7 @@ katex: true                                             # Enable if using math m
 mermaid: true                                           # Enable mermaid-js for sequence and diagrams
 google_analytics:                                       # Tracking ID, e.g. "UA-000000-01"
 cookie_consent: false                                   # To respect the usage of cookies
-disqus_shortname: "adminperkantoran"                                # Your discus shortname for comments
+disqus_shortname:                                 # Your discus shortname for comments
 cusdis_app_id:                                          # Your cusdis data-app-id
 color_theme: auto                                       # auto, dark or light
 
