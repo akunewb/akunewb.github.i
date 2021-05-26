@@ -2,11 +2,7 @@
 <li>
     <a feed.xml href="{{ site.data.social.feed.path | default: 'feed.xml' | relative_url }}"
        title="{{ site.data.language.str_rss_follow | default: 'Follow RSS feed' }}">
-        <span class="fa-stack fa-lg">
-            <i class="fas fa-circle fa-stack-2x"></i>
-            <i class="fas fa-rss fa-stack-1x fa-inverse"></i>
-        </span>
-    </a>
+        </a>
 </li>
 {% endif %}
 
