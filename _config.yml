@@ -85,16 +85,12 @@ author:
   email: tipsrandomeuorg@gmail.com
 
 defaults: 
-   - scope: 
-     path: ""
-     type: posts
+
    value:
      layout : single
-     author_profile: true
      read_time: true
      toc: true
      toc_label: "Menu"
-     toc_icon: "paperclip"
      comments: true
      share: true
      related: true
