@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/akunewb.github.io"
+#:baseurl: "/akunewb.github.io"
 url: "https://www.tipsrandom.eu.org"
 
 # THEME-SPECIFIC CONFIGURATION
@@ -26,12 +26,12 @@ katex: true                                             # Enable if using math m
 mermaid: true                                           # Enable mermaid-js for sequence and diagrams
 google_analytics:                                       # Tracking ID, e.g. "UA-000000-01"
 cookie_consent: false                                   # To respect the usage of cookies
-disqus_shortname:  adminperkantoran                                     # Your discus shortname for comments
+disqus_shortname:                                # Your discus shortname for comments
 cusdis_app_id:                                          # Your cusdis data-app-id
 color_theme: auto                                       # auto, dark or light
 
 # PAGINATION
-paginate: 10
+paginate: 5
 paginate_path: "/blog/page:num"
 
 # PORTFOLIO
@@ -45,4 +45,4 @@ plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
 exclude: [".jekyll-cache", ".idea", "vendor/*", "assets/node_modules/*"]
 
 # theme: type-on-strap                                  # if using the theme as a jekyll theme gem
-remote_theme: akunewb/Type-on-Strap                     # If using as a remote_theme in github
+# remote_theme: /Type-on-Strap                     # If using as a remote_theme in github
