@@ -28,8 +28,8 @@ katex: true                                             # Enable if using math m
 mermaid: true                                           # Enable mermaid-js for sequence and diagrams
 google_analytics:                                       # Tracking ID, e.g. "UA-000000-01"
 cookie_consent: false                                   # To respect the usage of cookies
-disqus_shortname: adminperkantoran                                # Your discus shortname for comments
-cusdis_app_id:                                          # Your cusdis data-app-id
+# disqus_shortname: adminperkantoran                                # Your discus shortname for comments
+#cusdis_app_id:                                          # Your cusdis data-app-id
 color_theme: auto                                       # auto, dark or light
 
 # PAGINATION
