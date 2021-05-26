@@ -13,7 +13,7 @@ header_text: Tips Random Website Belajar Perkantoran Belajar Perhotelan
 header_feature_image: assets/img/pexels/triangular.jpeg
 footer_text: >
   Powered by <a href="/">RandomTips</a> with <a href="/">Love</a> 
-  <p> <a> <a href="/">  About</a> | <a href="/">Disclaimer</a> | <a href="/">Privacy Policy</a> | <a href="/">Contact</a> | <a href="/">Sitemap</a> </a>
+  <p> <a> <a href="/about/">  About</a> | <a href="/disclaimer/">Disclaimer</a> | <a href="/privacy/">Privacy Policy</a> | <a href="/contact/">Contact</a> | <a href="/sitemap/">Sitemap</a> </a>
 
 
 # Blog
