@@ -12,7 +12,7 @@ favicon: assets/favicon.ico                             # Icon displayed in the 
 header_text: Tips Random Website Belajar Perkantoran Belajar Perhotelan 
 header_feature_image: assets/img/pexels/triangular.jpeg
 footer_text: >
-   About Disclaimer Privacy Policy Contact Sitemap
+<a>   About Disclaimer Privacy Policy Contact Sitemap </a>
   Powered by <a href="/">RandomTips</a> with <a href="/">Love</a>
 
 # Blog
