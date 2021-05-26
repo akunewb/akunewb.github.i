@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 #:baseurl: "/akunewb.github.io"
 url: "https://www.tipsrandom.eu.org"
-
+permalink: /:title/
 # THEME-SPECIFIC CONFIGURATION
 title: Tips Random                               # site's title
 description: "Website yang membahas tentang banyak hal"      # used by search engines
