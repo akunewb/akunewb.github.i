@@ -5,7 +5,17 @@ permalink: /:title/
 locale: "id-ID"
 # THEME-SPECIFIC CONFIGURATION
 title: Tips Random                               # site's title
+tagline: " — a Digital Garden 🌱"
+name: "Tips Random"
+author_bio:
+  "Hey there! My name is Ricard, I'm a 24-year-old Métis web developer and content strategist from TipsRandom.eu.org. I've recently compeleted a Full Stack Developer Program
+  at Coloumbia University, and I'm writing about random blog."
 description: "Website yang membahas tentang banyak hal"      # used by search engines
+footer_description:
+  'The phrase "digital garden" is a metaphor for thinking about writing and creating that focuses less on the
+  resulting "showpiece" and more on the process, care, and craft it takes to get there. While not everybody
+  has or works in a dirt garden, we all share a familiarity with the idea of what a garden is.'
+notes_url: "https://akunewb.github.io/enjoyment/notes"
 avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 breadcrumbs: true
