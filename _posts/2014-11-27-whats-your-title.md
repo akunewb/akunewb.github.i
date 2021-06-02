@@ -1,31 +1,30 @@
 ---
 layout: post
-title: What's your title
+title: Cara nembak Wanita biar diterima lewat chat WA
 hide_title: true
 feature-img: assets/img/feature-img/story.jpeg
-author: mhagnumdw
-tags: [Test, Lorem]
+author: Tips Random
+tags: [Cara, Tips, WA]
 ---
 
-This is an example of a post which includes a feature image that has a
-text, where you don't want to redisplay the title.
-Mind your image size in order for the text to be displayed where you want it to.
-The only limit is your imagination.
+Ini merupakan tulisan sederhan agar teman - teman sekalian bisa mendapatkanhati wanita idaman.
+Mungkin sebenarnya cara nembak wanita itu sudah banyak beredar di internet.
+Tapi tak ada salahnya kan jika kita berusaha untuk menyampaikan dengan cara yang special.
 
-Here is how the yaml looks inside the post:
+Salah satunya adalah dengan baca artikel dari tipsrandom.eu.org:
 
 ```yml
-title: What's your title
+title: Cara nembak Wanita biar diterima lewat chat WA
 hide_title: true
 feature-img: assets/img/feature-img/story.jpeg
-author: mhagnumdw
-tags: [Test, Lorem]
+author: Tips Random
+tags: [Cara Nembak Wanita, Cara, Tips]
 ```
 
-You may wonder, why is there a title when you are not actually displaying it. <br>
-Well that's due to some jekyll limitation:
+Kamu mungkin bertanya - tanya. <br>
+Apa benar cara ini akan sukses:
 
-> You **can't** set the **title** to the **empty string**
+> Kamu akan menemukan **jawabannya** setelah **membaca** artikel ini **dan semoga berhasil**
 
-The title is used elsewhere than inside the post, for example in the blog page that list this post.
-An empty title would break those pages and possibly prevents jekyll to render your blog. 
+Cara yang pertama adalah dengan cara Membuat Dia Nyaman dahulu kemudian buat kejutan dengan main tebak - tebakkan. 
+Setelah larut dalam emosi tawa bersama, segera bahas mengenai betapa kamu mencintainya
