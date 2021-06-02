@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 #:baseurl: "/akunewb.github.io"
-url: "https://tipsrandom.eu.org"
+url: "https://www.tipsrandom.eu.org"
 permalink: /:title/
 locale: "id-ID"
 # THEME-SPECIFIC CONFIGURATION
