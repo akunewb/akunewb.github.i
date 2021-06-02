@@ -5,7 +5,8 @@ feature-img: "assets/img/feature-img/desk-messy.jpeg"
 thumbnail: "assets/img/thumbnails/feature-img/desk-messy.jpeg"
 tags: [Kangen, Wong]
 ---
-
+* TOC
+{:toc}
 Kangen iku ancen e angel tombone,Koyok lirik lagune wong sing jenenge nella:
 
 ```yaml
