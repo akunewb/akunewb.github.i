@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Duh nelongso rasane ati kangen Amira
+title: Duh Nelongso Rasane Ati Kangen Amira
 feature-img: "assets/img/feature-img/desk-messy.jpeg"
 thumbnail: "assets/img/thumbnails/feature-img/desk-messy.jpeg"
 tags: [Kangen, Nelongso, Rasane Ati, Amira]
 color: turquoise
 excerpt_separator: <!--more-->
 ---
-
+* TOC
+{:toc}
 ## Opo iku Nelongso?
 
 Nelongso _"Nelongso iku angel nek diceritakno, cukup dirasakan saja"_ written by Cicero in 45 BC.
