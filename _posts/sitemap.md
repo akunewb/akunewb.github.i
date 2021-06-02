@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Sitemap
-permalink: /pages/sitemap/
+permalink: /sitemap/
 feature-img: "assets/img/pexels/travel.jpeg"
-tags: [About, Sitemap, Archive]
+tags: [About, Sitemap,]
 ---
 
 ### Sitemap
