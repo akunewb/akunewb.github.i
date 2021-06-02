@@ -3,7 +3,7 @@ layout: page
 title: Disclaimer
 permalink: /disclaimer/
 feature-img: "assets/img/pexels/travel.jpeg"
-tags: [About, Disclaimer, Archive]
+tags: [About, Disclaimer,]
 ---
 
 ## Disclaimer RandomTips.eu.org
