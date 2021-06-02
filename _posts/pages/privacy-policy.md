@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Privacy Policy
-permalink: /privacy/
+permalink: /pages/privacy/
 feature-img: "assets/img/pexels/travel.jpeg"
 tags: [About, Privacy, Archive]
 ---
