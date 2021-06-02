@@ -19,8 +19,7 @@ breadcrumbs: true
 word_per_minute: 200
 
 # Header and footer text
-header_text: Tips Random Website
-Belajar Perkantoran, Belajar Perhotelan, Cara Ternak 
+header_text: Tips Random Website, Belajar Perkantoran, Belajar Perhotelan, Cara Ternak 
 footer_text: >
   Powered by <a href="/">RandomTips</a> with <a href="/">Love</a> 
   <p> <a> <a href="/about/">  About</a> | <a href="/disclaimer/">Disclaimer</a> | <a href="/privacy/">Privacy Policy</a> | <a href="/contact/">Contact</a> | <a href="/sitemap/">Sitemap</a> </a>
