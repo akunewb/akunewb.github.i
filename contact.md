@@ -3,7 +3,7 @@ layout: page
 title: Contact
 permalink: /contact/
 feature-img: "assets/img/pexels/travel.jpeg"
-tags: [Contact, Archive]
+tags: [Contact]
 ---
 
 Contact ke : tipsrandomeuorg@gmail.com
