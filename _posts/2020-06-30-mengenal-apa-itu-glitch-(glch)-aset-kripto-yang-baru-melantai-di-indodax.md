@@ -4,7 +4,9 @@ title: Mengenal Apa Itu Glitch (GLCH) Aset Kripto Yang Baru Melantai Di Indodax
 tags: [Cryptocurrency]
 excerpt_separator: <!--more-->
 ---
-
+<!-- To be placed at the beginning of the post, it is where the table of content will be generated -->
+* TOC
+{:toc}
 # Mengenal Apa Itu Glitch (GLCH) Aset Kripto Yang Baru Melantai Di Indodax . 
 Popularitas Bitcoin (BTC) dan Ethereum(ETH) memang akan terus menarik perhatian dari para traders ataupun investors yang berkecimpung di pasar kripto lokal ataupun global. Akan tetapi bukan menjadi alasan juga untuk kita menutup mata terhadap koin-koin generasi baru yang membawa fitur-fitur terbaru dan teknologi blockchain terbaru juga.
 
