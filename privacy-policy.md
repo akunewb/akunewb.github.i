@@ -3,7 +3,7 @@ layout: page
 title: Privacy Policy
 permalink: /privacy/
 feature-img: "assets/img/pexels/travel.jpeg"
-tags: [About, Privacy, Archive]
+tags: [About, Privacy]
 ---
 
 ## Privacy Policy TipsRandom.eu.org
