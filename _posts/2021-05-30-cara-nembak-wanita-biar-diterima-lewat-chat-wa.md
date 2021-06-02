@@ -6,8 +6,8 @@ feature-img: assets/img/feature-img/story.jpeg
 author: Tips Random
 tags: [Cara, Tips, WA]
 ---
+* TOC
 {:toc}
-
 Ini merupakan tulisan sederhana agar teman - teman sekalian bisa mendapatkan hati wanita idamannya.
 Mungkin sebenarnya cara nembak wanita itu sudah banyak beredar di internet.
 Tapi tak ada salahnya kan jika kita berusaha untuk menyampaikan dengan cara yang special.
