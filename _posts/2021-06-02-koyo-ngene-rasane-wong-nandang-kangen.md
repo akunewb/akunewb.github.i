@@ -1,27 +1,26 @@
 ---
 layout: post
-title: Feature images
+title: Koyo Ngene Rasane Wong Nandang Kangen
 feature-img: "assets/img/feature-img/desk-messy.jpeg"
 thumbnail: "assets/img/thumbnails/feature-img/desk-messy.jpeg"
-tags: [Test, Lorem]
+tags: [Kangen, Wong]
 ---
 
-Hopefully you will find enough information about how to set images in your blog here.
-This is an example of a post which includes a feature image specified in the front matter of the post. 
-The feature image spans the full-width of the page, and is shown with the title on permalink pages:
+Kangen iku ancen e angel tombone,Koyok lirik lagune wong sing jenenge nella:
 
 ```yaml
 feature-img: "assets/img/feature-img/desk-messy.jpeg"
 thumbnail: "assets/img/thumbnails/feature-img/desk-messy.jpeg" 
 ```
 
-You can also use a thumbnail, a smaller version of the same image to improve loading of the page.
-The thumbnail will also be used when you share your article on other platform (linkedin, whatsapp, facebook, ...).
+Kangen dapat mengacu pada beberapa hal berikut: Perasaan, perasaan rindu yang mendalam kepada seseorang atau sesuatu yang sudah lama tidak ditemui.
+Kangen kui iso mengacu karo Roso ning ati, Roso Rindu sing njero nggo uwong sing wis suwe ra tau ketemu.
 
->  - And now it is working
 
-You can also add images aligned in your post using the `aligner` include.
-Make sure to separate all of the image path from in a string separated with `,`.
+>  - Koyo Ngene Rasane Kangen
+
+Kamu bisa menerka nerka apa sih yang dirasain oleh orang yang kamu kangen in. Tapi alangkah baiknya kalau kamu mengungkapkannya. `Kangen` include.
+Make sure to separate all of thePastikan perasaanmu kui kangen beneran. Dudu Guyonan. Soale kangen e wong iku wes angel tombone kecuali ketemu. `,`.
 It by default look into `assets/img/` so give the path from there, example:
 
 {% highlight ruby %}
