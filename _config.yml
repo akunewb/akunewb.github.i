@@ -1,20 +1,17 @@
 # SITE CONFIGURATION
 #:baseurl: "/akunewb.github.io"
-url: "https://www.tipsrandom.eu.org"
+url: "https://tipsrandom.eu.org"
 permalink: /:title/
 locale: "id-ID"
 # THEME-SPECIFIC CONFIGURATION
 title: Tips Random                               # site's title
-tagline: " — a Digital Garden 🌱"
+tagline: " — Informasi Tips Random 🌱"
 name: "Tips Random"
 author_bio:
-  "Hey there! My name is Ricard, I'm a 24-year-old Métis web developer and content strategist from TipsRandom.eu.org. I've recently compeleted a Full Stack Developer Program
-  at Coloumbia University, and I'm writing about random blog."
+  "Seorang Penulis sekaligus pembaca informasi yang ada di internet."
 description: "Website yang membahas tentang banyak hal"      # used by search engines
 footer_description:
-  'The phrase "digital garden" is a metaphor for thinking about writing and creating that focuses less on the
-  resulting "showpiece" and more on the process, care, and craft it takes to get there. While not everybody
-  has or works in a dirt garden, we all share a familiarity with the idea of what a garden is.'
+  'Blog tentang Informasi Tips Random Seputar Teknologi, Perkantoran, Otomasi, Cara Ternak'
 notes_url: "https://akunewb.github.io/enjoyment/notes"
 avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
@@ -22,8 +19,8 @@ breadcrumbs: true
 word_per_minute: 200
 
 # Header and footer text
-header_text: Tips Random Website Belajar Perkantoran Belajar Perhotelan 
-header_feature_image: assets/img/pexels/triangular.jpeg
+header_text: Tips Random Website
+Belajar Perkantoran, Belajar Perhotelan, Cara Ternak 
 footer_text: >
   Powered by <a href="/">RandomTips</a> with <a href="/">Love</a> 
   <p> <a> <a href="/about/">  About</a> | <a href="/disclaimer/">Disclaimer</a> | <a href="/privacy/">Privacy Policy</a> | <a href="/contact/">Contact</a> | <a href="/sitemap/">Sitemap</a> </a>
@@ -90,7 +87,7 @@ sass:
 
 author:
   name : tipsrandom.eu.org
-  bio: Blogging enthusiast, tips random, menyukai amira
+  bio: Blogging enthusiast, tips random, menyukai Amira Shabirina Noor
   location: Indonesia
   email: tipsrandomeuorg@gmail.com
 
