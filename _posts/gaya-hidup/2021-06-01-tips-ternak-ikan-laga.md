@@ -4,7 +4,9 @@ title: >
    Tips Ternak Ikan Laga 
 tags: [Tips, Ternak, ikan, Ikan laga]
 ---
-
+<!-- To be placed at the beginning of the post, it is where the table of content will be generated -->
+* TOC
+{:toc}
 # Tips Ternak Ikan Laga
 
 Pilih Indukan Ikan Laga. ...
