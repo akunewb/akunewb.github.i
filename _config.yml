@@ -5,7 +5,7 @@ permalink: /:title/
 locale: "id-ID"
 # THEME-SPECIFIC CONFIGURATION
 title: Tips Random                               # site's title
-tagline: " — Informasi Tips Random 🌱"
+tagline: "Informasi Tips Random 🌱"
 name: "Tips Random"
 author_bio:
   "Seorang Penulis sekaligus pembaca informasi yang ada di internet."
