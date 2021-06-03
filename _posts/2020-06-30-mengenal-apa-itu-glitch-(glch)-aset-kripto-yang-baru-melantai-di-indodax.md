@@ -12,7 +12,7 @@ Popularitas Bitcoin (BTC) dan Ethereum(ETH) memang akan terus menarik perhatian 
 
 Salah satu koin yang patut diberikan perhatian ialah aset kripto Glitch (GLCH) yang baru saya melantai di pasar marketplace kripto Indodax. Biarpun Glitch (GLCH) merupakan pendatang baru namun tim Glitch memiliki fondasi yang sangat solid dan memfokuskan project meraka di sektor Decentralized Finance DeFi yang bernilai miliaran dolar.
 
-Untuk mengetahui dan mengenal lebih lanjut tentang apa itu aset kripto atau cryptocurrency Glitch (GLCH) , pada artikel kali ini Budak Duit Indonesia akan membahasnya untuk anda.
+Untuk mengetahui dan mengenal lebih lanjut tentang apa itu aset kripto atau cryptocurrency Glitch (GLCH) , pada artikel kali ini  akan membahasnya untuk anda.
 <!--more-->
 ## Apa itu Glitch (GLCH) Token?
 
@@ -66,7 +66,7 @@ Menurut Digital Coin Price berdasarkan data yang didapatkan dari alogaritma yang
 
 
 
-Sekian dulu artikel dari Budak Duit Indonesia kali ini. Semoga artikel ini bisa menambah pengetahuan anda dalam melakukan trading di pasar kripto. Segala keputusan trading sepenuhnya tetap di tangan anda. Anda bisa tinggalkan pesan dan komentar jika merasa suka dan terbantu dengan adanya artikel ini. Terima kasih sudah membaca!.
+Sekian dulu artikel kali ini. Semoga artikel ini bisa menambah pengetahuan anda dalam melakukan trading di pasar kripto. Segala keputusan trading sepenuhnya tetap di tangan anda. Anda bisa tinggalkan pesan dan komentar jika merasa suka dan terbantu dengan adanya artikel ini. Terima kasih sudah membaca!.
 
 
     {% include citation.html key="ref1" %}
